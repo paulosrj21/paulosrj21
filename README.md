@@ -26,4 +26,6 @@
 
 ## 💻 Projetos e Estudos de Data Science e Machine Learning.
 [Analise Exploratoria do Rotten Tomatoes](https://github.com/paulosrj21/Analise-Exploratoria-Rotten-Tomatoes/tree/main)
+[Analise Exploratoria do Dataset API feito em R](https://github.com/paulosrj21/Dataset-API)
+
 
