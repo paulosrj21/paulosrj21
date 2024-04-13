@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>             
 </div>
 
-## 💻 Projetos e Estudos de Data Science e Machine Learning.
+## 💻 Projetos e Estudos de Data Science, Machine Learning e Automações/WebScrapping.
 [Analise Exploratoria do Rotten Tomatoes](https://github.com/paulosrj21/Analise-Exploratoria-Rotten-Tomatoes/tree/main)
 
 [Analise Exploratoria do Dataset API feito em R](https://github.com/paulosrj21/Dataset-API)
